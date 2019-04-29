@@ -14,7 +14,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "bson": "^3.0.2",
+    "bson": "4.0.2",
     "debug": "^3.1.0",
     "uuid-parse": "^1.0.0"
   },
